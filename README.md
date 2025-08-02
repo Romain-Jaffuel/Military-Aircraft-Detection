@@ -13,6 +13,7 @@ Model training was performed using YOLOv8s with the following configuration:
 The best model was saved to `YOLOv8s_trained/weights/best.pt`.
 
 Performance metrics on the validation set:
+
 Precision: 0.944  
 Recall: 0.878  
 mAP@0.5: 0.945  
