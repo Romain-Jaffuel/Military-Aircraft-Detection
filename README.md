@@ -1,6 +1,6 @@
 # Military Aircraft Detection with YOLOv8
 
-This project trains a YOLOv8 model to detect and classify military aircraft across 85 different classes.
+This project trains a YOLOv8 model to detect and classify military aircraft across 88 different classes.
 
 The dataset consists of images and associated csv files found on Kaggle at https://www.kaggle.com/datasets/a2015003713/militaryaircraftdetectiondataset, each containing bounding box annotations. These annotations were converted into YOLOv8 format and organized into appropriate folders: `images/train` and `labels/train`.
 
