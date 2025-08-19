@@ -6,3 +6,4 @@ aircraft_video/
 train19/
 *.cache
 **/__pycache__/
+model_5cls/
