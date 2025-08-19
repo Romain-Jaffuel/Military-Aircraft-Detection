@@ -79,7 +79,7 @@ for r in results:
         print(f"{names.get(cls, cls)}  conf={conf:.3f}  xyxy=({x1:.1f},{y1:.1f},{x2:.1f},{y2:.1f})")
 
 print("Annotated image saved under the 'predict/v2_single_image' folder.")
-
+```
 
 ## Closing Notes
 
