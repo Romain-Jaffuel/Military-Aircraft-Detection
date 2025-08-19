@@ -1,2 +1,8 @@
 yolo_dataset/
 data/
+yolo_dataset/
+yolo_dataset_5cls/
+aircraft_video/
+train19/
+*.cache
+**/__pycache__/
